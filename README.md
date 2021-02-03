@@ -1,2 +1,2 @@
 # repo-1
-sample repository
+sample repository new
